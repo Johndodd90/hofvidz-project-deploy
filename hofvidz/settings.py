@@ -26,7 +26,7 @@ SECRET_KEY = '2bzv&=7l8o+^)tlwk$af*u_g3lr*o&)3u_k9lx+_xng3su+51b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [git.heroku.com/warm-mountain-81749.git]
+ALLOWED_HOSTS = ['arcane-tundra-08952.herokuapp.com']
 
 LOGIN_URL = 'login'
 LOGIN_REDIRECT_URL = 'home'
